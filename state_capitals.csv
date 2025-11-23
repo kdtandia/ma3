@@ -1,0 +1,202 @@
+source,destination,distance
+Montgomery AL,Atlanta GA,162
+Montgomery AL,Jackson MS,238
+Juneau AK,,,
+Phoenix AZ,Santa Fe NM,391
+Phoenix AZ,Carson City NV,570
+Little Rock AR,Oklahoma City OK,343
+Little Rock AR,Memphis TN,138
+Little Rock AR,Jackson MS,215
+Little Rock AR,Jefferson City MO,295
+Little Rock AR,Baton Rouge LA,383
+Sacramento CA,Carson City NV,132
+Sacramento CA,Salem OR,586
+Denver CO,Cheyenne WY,100
+Denver CO,Santa Fe NM,391
+Denver CO,Lincoln NE,488
+Denver CO,Topeka KS,556
+Denver CO,Salt Lake City UT,525
+Hartford CT,Providence RI,72
+Hartford CT,Boston MA,103
+Hartford CT,Albany NY,127
+Dover DE,Annapolis MD,71
+Dover DE,Trenton NJ,78
+Tallahassee FL,Atlanta GA,273
+Tallahassee FL,Montgomery AL,293
+Atlanta GA,Montgomery AL,162
+Atlanta GA,Tallahassee FL,273
+Atlanta GA,Columbia SC,215
+Atlanta GA,Raleigh NC,372
+Atlanta GA,Nashville TN,250
+Honolulu HI,,,
+Boise ID,Salem OR,427
+Boise ID,Olympia WA,508
+Boise ID,Helena MT,462
+Boise ID,Cheyenne WY,558
+Boise ID,Salt Lake City UT,343
+Boise ID,Carson City NV,461
+Springfield IL,Indianapolis IN,185
+Springfield IL,Jefferson City MO,210
+Springfield IL,Des Moines IA,234
+Springfield IL,Madison WI,198
+Springfield IL,Frankfort KY,378
+Indianapolis IN,Springfield IL,185
+Indianapolis IN,Columbus OH,176
+Indianapolis IN,Frankfort KY,146
+Indianapolis IN,Lansing MI,238
+Des Moines IA,Springfield IL,234
+Des Moines IA,Jefferson City MO,235
+Des Moines IA,Lincoln NE,205
+Des Moines IA,Pierre SD,373
+Des Moines IA,St Paul MN,242
+Des Moines IA,Madison WI,280
+Topeka KS,Jefferson City MO,265
+Topeka KS,Lincoln NE,149
+Topeka KS,Denver CO,556
+Topeka KS,Oklahoma City OK,271
+Frankfort KY,Indianapolis IN,146
+Frankfort KY,Springfield IL,378
+Frankfort KY,Columbus OH,203
+Frankfort KY,Charleston WV,211
+Frankfort KY,Nashville TN,175
+Frankfort KY,Jefferson City MO,427
+Frankfort KY,Richmond VA,475
+Baton Rouge LA,Jackson MS,138
+Baton Rouge LA,Little Rock AR,383
+Augusta ME,Concord NH,150
+Annapolis MD,Dover DE,71
+Annapolis MD,Harrisburg PA,86
+Annapolis MD,Charleston WV,267
+Annapolis MD,Richmond VA,124
+Boston MA,Hartford CT,103
+Boston MA,Providence RI,44
+Boston MA,Concord NH,67
+Boston MA,Montpelier VT,181
+Boston MA,Albany NY,164
+Lansing MI,Indianapolis IN,238
+Lansing MI,Columbus OH,210
+Lansing MI,Madison WI,355
+St Paul MN,Des Moines IA,242
+St Paul MN,Madison WI,267
+St Paul MN,Pierre SD,449
+St Paul MN,Bismarck ND,439
+Jackson MS,Baton Rouge LA,138
+Jackson MS,Little Rock AR,215
+Jackson MS,Montgomery AL,238
+Jackson MS,Nashville TN,410
+Jefferson City MO,Springfield IL,210
+Jefferson City MO,Des Moines IA,235
+Jefferson City MO,Topeka KS,265
+Jefferson City MO,Little Rock AR,295
+Jefferson City MO,Nashville TN,395
+Jefferson City MO,Frankfort KY,427
+Jefferson City MO,Oklahoma City OK,426
+Jefferson City MO,Lincoln NE,268
+Helena MT,Boise ID,462
+Helena MT,Cheyenne WY,499
+Helena MT,Pierre SD,698
+Helena MT,Bismarck ND,665
+Lincoln NE,Des Moines IA,205
+Lincoln NE,Topeka KS,149
+Lincoln NE,Denver CO,488
+Lincoln NE,Cheyenne WY,436
+Lincoln NE,Pierre SD,397
+Lincoln NE,Jefferson City MO,268
+Carson City NV,Sacramento CA,132
+Carson City NV,Phoenix AZ,570
+Carson City NV,Salt Lake City UT,524
+Carson City NV,Boise ID,461
+Carson City NV,Salem OR,580
+Concord NH,Augusta ME,150
+Concord NH,Boston MA,67
+Concord NH,Montpelier VT,88
+Trenton NJ,Dover DE,78
+Trenton NJ,Harrisburg PA,63
+Trenton NJ,Albany NY,150
+Santa Fe NM,Phoenix AZ,391
+Santa Fe NM,Denver CO,391
+Santa Fe NM,Oklahoma City OK,536
+Santa Fe NM,Austin TX,715
+Albany NY,Hartford CT,127
+Albany NY,Boston MA,164
+Albany NY,Trenton NJ,150
+Albany NY,Montpelier VT,145
+Albany NY,Harrisburg PA,236
+Raleigh NC,Atlanta GA,372
+Raleigh NC,Columbia SC,178
+Raleigh NC,Richmond VA,161
+Raleigh NC,Nashville TN,545
+Bismarck ND,Helena MT,665
+Bismarck ND,Pierre SD,215
+Bismarck ND,St Paul MN,439
+Columbus OH,Indianapolis IN,176
+Columbus OH,Frankfort KY,203
+Columbus OH,Lansing MI,210
+Columbus OH,Charleston WV,147
+Columbus OH,Harrisburg PA,296
+Oklahoma City OK,Topeka KS,271
+Oklahoma City OK,Little Rock AR,343
+Oklahoma City OK,Jefferson City MO,426
+Oklahoma City OK,Santa Fe NM,536
+Oklahoma City OK,Austin TX,388
+Salem OR,Olympia WA,180
+Salem OR,Boise ID,427
+Salem OR,Sacramento CA,586
+Salem OR,Carson City NV,580
+Harrisburg PA,Trenton NJ,63
+Harrisburg PA,Annapolis MD,86
+Harrisburg PA,Dover DE,104
+Harrisburg PA,Albany NY,236
+Harrisburg PA,Columbus OH,296
+Harrisburg PA,Charleston WV,246
+Providence RI,Hartford CT,72
+Providence RI,Boston MA,44
+Columbia SC,Raleigh NC,178
+Columbia SC,Atlanta GA,215
+Pierre SD,Bismarck ND,215
+Pierre SD,Helena MT,698
+Pierre SD,Cheyenne WY,400
+Pierre SD,Lincoln NE,397
+Pierre SD,Des Moines IA,373
+Pierre SD,St Paul MN,449
+Nashville TN,Atlanta GA,250
+Nashville TN,Jackson MS,410
+Nashville TN,Little Rock AR,138
+Nashville TN,Jefferson City MO,395
+Nashville TN,Frankfort KY,175
+Nashville TN,Raleigh NC,545
+Nashville TN,Richmond VA,658
+Nashville TN,Charleston WV,489
+Austin TX,Oklahoma City OK,388
+Austin TX,Santa Fe NM,715
+Austin TX,Baton Rouge LA,442
+Salt Lake City UT,Denver CO,525
+Salt Lake City UT,Cheyenne WY,442
+Salt Lake City UT,Boise ID,343
+Salt Lake City UT,Carson City NV,524
+Montpelier VT,Concord NH,88
+Montpelier VT,Boston MA,181
+Montpelier VT,Albany NY,145
+Richmond VA,Annapolis MD,124
+Richmond VA,Frankfort KY,475
+Richmond VA,Charleston WV,195
+Richmond VA,Raleigh NC,161
+Richmond VA,Nashville TN,658
+Olympia WA,Salem OR,180
+Olympia WA,Boise ID,508
+Charleston WV,Columbus OH,147
+Charleston WV,Frankfort KY,211
+Charleston WV,Harrisburg PA,246
+Charleston WV,Annapolis MD,267
+Charleston WV,Richmond VA,195
+Charleston WV,Nashville TN,489
+Madison WI,Springfield IL,198
+Madison WI,Des Moines IA,280
+Madison WI,St Paul MN,267
+Madison WI,Lansing MI,355
+Cheyenne WY,Denver CO,100
+Cheyenne WY,Lincoln NE,436
+Cheyenne WY,Pierre SD,400
+Cheyenne WY,Helena MT,499
+Cheyenne WY,Boise ID,558
+Cheyenne WY,Salt Lake City UT,442
