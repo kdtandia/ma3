@@ -1,0 +1,8 @@
+i. Performance Comparison
+Based on the experimental results from 10 trials each, Dijkstra's algorithm significantly outperformed the brute-force approach. The brute-force algorithm had an average execution time of 81.80 ms, while Dijkstra's algorithm averaged only 38.15 ms, making it approximately 2.1 times faster. Both algorithms produced identical shortest-path results, confirming the correctness of the implementation, but Dijkstra achieved this with substantially better efficiency.
+
+ii. Explanation of Performance Difference
+Dijkstra’s algorithm outperforms the brute-force approach due to its use of a priority queue, which allows it to always process the closest unvisited node next. This focused strategy reduces unnecessary computations by avoiding repeated processing of the same nodes, unlike the brute-force method, which relaxes all edges repeatedly without any prioritization. Additionally, Dijkstra’s time complexity of O((V + E) log V) is far more efficient than the brute-force approach, which roughly operates at O(V × E), leading to faster and more scalable performance, especially as graph size increases.
+
+iii. Challenges and Solutions
+During implementation, I encountered the challenge of configuring C++’s priority_queue as a min-heap, which I resolved by using the std::greater comparator. I also had to carefully manage visited nodes to prevent reprocessing, which I accomplished using a set to track finalized nodes. Finally, I verified correctness by comparing Dijkstra’s output with the brute-force results, ensuring all shortest-path distances matched across all trials.
